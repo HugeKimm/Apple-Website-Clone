@@ -20,3 +20,27 @@ Whether you're here to appreciate the technical craftsmanship, gain inspiration 
 
 ## 🌐 Website Hosted Here ⬇️ 
 https://iphone15proweb.netlify.app/
+
+
+## 📋 Quick Start
+Follow these steps to set up the project locally on your machine.
+
+Prerequisites
+
+Make sure you have the following installed on your machine:
+
+  ▫️ https://git-scm.com/
+  ▫️ https://nodejs.org/en
+  ▫️ https://www.npmjs.com/
+
+Installation
+
+ Install the project dependencies using npm:
+
+  npm install
+
+ Running the Project
+
+  npm run dev
+
+Open http://localhost:5173 in your browser to view the project.
